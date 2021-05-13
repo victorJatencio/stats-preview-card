@@ -117,7 +117,7 @@ export default App;
 
 ### Continued development
 
-This is the first of many other project I'm planing to do with React.js and my main focus is to learn this Java Script library in order to buil much more complex applications. This first app is not all that fancy, but is a start!
+This is the first of many other projects I'm planing to do with React.js and my main focus is to learn this JavaScript library in order to build more complex applications. This first app is not all that fancy, but is a start!
 
 ### Useful resources
 

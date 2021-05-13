@@ -15,7 +15,8 @@ function App() {
         >
           Frontend Mentor
         </a>
-        . Coded by <a href="/">Victor J Atencio</a>.
+        . Coded by{" "}
+        <a href="https://github.com/victorJatencio">Victor J Atencio</a>.
       </div>
     </Container>
   );
